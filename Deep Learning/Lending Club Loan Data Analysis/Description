@@ -52,7 +52,8 @@ Dataset columns and definition:
 
 Steps to perform:
 
-Perform exploratory data analysis and feature engineering and then apply feature engineering. Follow up with a deep learning model to predict whether or not the loan will be default using the historical data.
+Perform exploratory data analysis and feature engineering and then apply feature engineering. Follow up with a deep learning model 
+to predict whether or not the loan will be default using the historical data.
 
 Tasks:
 
